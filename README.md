@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Antonin</h1>
 <h3 align="center">A passionate Fullstack Developper Junior</h3>
 
-- 🔭 I’m currently working on **HippoCloud (a personnal mini-cloud)**
-
 - 🌱 I’m currently learning **Java (SpringBoot), Angular, Tailwind CSS**
 
 - 📫 How to reach me **antoninl94@gmail.com**
